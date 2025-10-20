@@ -1,4 +1,4 @@
-Hello ! My nickname is SuperWaper https://img.shields.io/badge/Super-Waper
+Hello ! My nickname is SuperWaper ![Static Badge](https://img.shields.io/badge/Super-Waper-blue)
 =====================================================================================================
 
 • Dev Angular - Full Stack, TS, C#, NestJS •
