@@ -1,4 +1,4 @@
-Hello ! My nickname is SuperWaper (Waper in first time... but already used now so... super why not ?)
+Hello ! My nickname is SuperWaper https://img.shields.io/badge/Super-Waper
 =====================================================================================================
 
 • Dev Angular - Full Stack, TS, C#, NestJS •
